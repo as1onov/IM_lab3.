@@ -1,0 +1,10 @@
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\bin\Debug\ИМ_лаба_3.exe.config
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\bin\Debug\ИМ_лаба_3.exe
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\bin\Debug\ИМ_лаба_3.pdb
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.Form1.resources
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.Properties.Resources.resources
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.exe
+C:\Users\slava\source\repos\ИМ_лаба_3\ИМ_лаба_3\obj\Debug\ИМ_лаба_3.pdb
